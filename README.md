@@ -15,7 +15,7 @@ Feel free to explore, modify, and use this code as a foundation to understand an
 
 ### How to Play:
 
-1. **Game Start**: Run the Python file `filename.py` to start the game.
+1. **Game Start**: Run the Python file `tictactoe.py` to start the game.
 2. **Players**: Two players take turns, marking 'X' and 'O' on the 3x3 grid.
 3. **Board Positions**: Players input positions using numbers 1 to 9 to place their symbols.
 4. **Gameplay**: The first player to complete a row, column, or diagonal with their symbol wins.
